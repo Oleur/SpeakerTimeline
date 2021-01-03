@@ -3,6 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2021
 - **CloudWorld 2021** - Building reliable web services with Kotlin Ktor (_coming soon_)
+- **FOSDEM 2021** - Come to the backend side we have Kotlin! (_coming soon_)
 
 ## 2020
 - **droidcon APAC** - No Play Services? No Worries ([video](https://www.droidcon.com/media-detail?video=491025043) - [slides](https://speakerdeck.com/oleur/no-play-services-no-worries-24e9d3bd-a8e0-49d5-a7ba-8506fde4d546))
