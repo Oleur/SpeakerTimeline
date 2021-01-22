@@ -14,7 +14,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **DevFest South Africa** - No Play Services? No Worries! ([video](https://www.youtube.com/watch?v=Y1n5nl15174) - [slides](https://speakerdeck.com/oleur/no-play-services-no-worries))
 - **droidcon EMEA** - Please Draw Me a Sheep... in AR ([video](https://www.droidcon.com/media-detail?video=470526121) - [slides](https://speakerdeck.com/oleur/please-draw-me-a-sheep-dot-dot-dot-in-ar-6a446b2b-44c4-459a-b243-68f9a8ad1725))
 - **Android Makers Paris** - Please Draw Me a Sheep... in AR ([video](https://www.youtube.com/watch?v=f0X_Z8QpEjs) - [slides](https://speakerdeck.com/oleur/please-draw-me-a-sheep-dot-dot-dot-in-ar))
-- **DevFest du Bout du Monde** - Playing Videos on Android? ExoPlayer2 at your service! (link)
+- **DevFest du Bout du Monde** - Playing Videos on Android? ExoPlayer2 at your service! (video - [slides](https://speakerdeck.com/oleur/playing-videos-on-android-exoplayer2-at-your-service-bd716a69-e7ca-4f06-aa4a-611dc6705638))
 
 ## 2019
 - **droidcon SF** - Playing Videos on Android? ExoPlayer2 at your service! ([video](https://www.droidcon.com/media-detail?video=380848856) - [slides](https://speakerdeck.com/oleur/playing-videos-on-android-exoplayer2-at-your-service))
@@ -23,7 +23,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **droicon Kenya** - Game Development with Unity from an Android Point of View ([slides](https://speakerdeck.com/oleur/game-development-with-unity-from-an-android-point-of-view))
 
 ## 2018
-- **droidcon London** - Building VR Apps On Android (link)
+- **droidcon London** - Building VR Apps On Android (video - [slides](https://speakerdeck.com/oleur/building-vr-apps-on-android))
 
 ## 2017
 - **Android Makers Paris** - ExoPlayer: media player for your apps and virtual reality ([video](https://www.youtube.com/watch?v=NvDoNB5bZeA) - [slides](https://speakerdeck.com/oleur/exoplayer-player-multimedia-pour-les-applications-et-la-realite-virtuelle))
