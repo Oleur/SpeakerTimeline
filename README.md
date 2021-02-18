@@ -2,8 +2,10 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
+- **Mobile Apps Week Guinea** - Come to the backend side we have Kotlin! (_coming soon_)
+- **GDG Tbilisi** - Demystifying Locale on Android (_coming soon_)
 - **CloudWorld 2021** - Building reliable web services with Kotlin Ktor (_coming soon_)
-- **FOSDEM 2021** - Come to the backend side we have Kotlin! (_coming soon_)
+- **FOSDEM 2021** - Come to the backend side we have Kotlin! ([video](https://video.fosdem.org/2021/D.kotlin/come_to_the_backend_side.webm) - [slides](https://speakerdeck.com/oleur/come-to-the-backend-side-we-have-kotlin))
 
 ## 2020
 - **droidcon APAC** - No Play Services? No Worries ([video](https://www.droidcon.com/media-detail?video=491025043) - [slides](https://speakerdeck.com/oleur/no-play-services-no-worries-24e9d3bd-a8e0-49d5-a7ba-8506fde4d546))
