@@ -2,7 +2,9 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
-- **GDG Tbilisi** - Demystifying Locale on Android (video - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android))
+- **Android Worldwilde April 2021** - Android App Bundle: from start to deployment (_04/27/2021_)
+- **Dutch Android User Group** - Exploring Jetpack Compose Canvas 🎨 (_04/15/2021_)
+- **GDG Tbilisi** - Demystifying Locale on Android ([video](https://www.youtube.com/watch?v=fe6n_Oi5BtM) - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android))
 - **Mobile Apps Week Guinea** - Come to the backend side we have Kotlin! (video - slides)
 - **CloudWorld 2021** - Building reliable web services with Kotlin Ktor (video - slides)
 - **FOSDEM 2021** - Come to the backend side we have Kotlin! ([video](https://video.fosdem.org/2021/D.kotlin/come_to_the_backend_side.webm) - [slides](https://speakerdeck.com/oleur/come-to-the-backend-side-we-have-kotlin))
