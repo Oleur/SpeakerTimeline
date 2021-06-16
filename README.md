@@ -2,7 +2,10 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
-- **GDG Southampton - DevParty** - AR/VR on Android in 2021 (_coming soon_)
+- **360|AnDev 2021** - Demystifying Locale on Android (_coming soon_)
+- **GDG Montréal** - Exploring Jetpack Compose Canvas ([video](https://www.youtube.com/watch?v=OVdPe-FCDwM) - slides)
+- **French Android User Group** - Google I/O Debrief (Android, Compose, AR) ([video](https://www.youtube.com/watch?v=UrzXIN6Hu2Y) - slides)
+- **GDG Southampton - DevParty** - AR/VR on Android in 2021 ([video](https://www.youtube.com/watch?v=c8ugVMzdHwU) - [slides](https://speakerdeck.com/oleur/vr-on-android-in-2021))
 - **Android Worldwilde April 2021** - Android App Bundle: from start to deployment ([video](https://www.youtube.com/watch?v=jdANyUIFV68) - [slides](https://speakerdeck.com/oleur/android-app-bundle-from-start-to-deployment))
 - **Dutch Android User Group** - Exploring Jetpack Compose Canvas 🎨 ([video](https://www.youtube.com/watch?v=HtaRmOjkk64) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas))
 - **GDG Tbilisi** - Demystifying Locale on Android ([video](https://www.youtube.com/watch?v=fe6n_Oi5BtM) - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android))
