@@ -4,7 +4,8 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2021
 - **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps (_coming soon_)
 - **droidcon Nigeria 2021** - Demystifying Locale on Android (_coming soon_)
-- **360|AnDev 2021** - Demystifying Locale on Android (_coming soon_)
+- **I/O Extended UK & Ireland** - AR/VR on Android in 2021 (_coming soon_)
+- **360|AnDev 2021** - Demystifying Locale on Android (video - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android-e9c40efc-0d67-4205-a12e-d646b3276082))
 - **Chicago Kotlin User Group** - Building reliable web services with Kotlin Ktor (_coming soon_)
 - **GDG Montréal** - Exploring Jetpack Compose Canvas ([video](https://www.youtube.com/watch?v=OVdPe-FCDwM) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-630fe5cd-6a36-4b29-b5ce-1371c248c87a))
 - **French Android User Group** - Google I/O Debrief (Android, Compose, AR) ([video](https://www.youtube.com/watch?v=UrzXIN6Hu2Y) - slides)
