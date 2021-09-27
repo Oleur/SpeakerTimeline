@@ -2,9 +2,12 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
+- **Digital Android Afterwork** - Android App Bundle: from start to deployment (_coming soon_)
+- **droidcon London 2021** - Exploring Jetpack Compose Canvas (_coming soon_)
 - **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps (_coming soon_)
-- **droidcon Nigeria 2021** - Demystifying Locale on Android (_coming soon_)
-- **I/O Extended UK & Ireland** - AR/VR on Android in 2021 (_coming soon_)
+- **droidcon Berlin 2021** - Game Development with Unity from an Android Point of View (_coming soon_)
+- **droidcon Nigeria 2021** - Demystifying Locale on Android (video - slides)
+- **I/O Extended UK & Ireland** - AR/VR on Android in 2021 (video - slides)
 - **360|AnDev 2021** - Demystifying Locale on Android (video - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android-e9c40efc-0d67-4205-a12e-d646b3276082))
 - **Chicago Kotlin User Group** - Building reliable web services with Kotlin Ktor (_coming soon_)
 - **GDG Montréal** - Exploring Jetpack Compose Canvas ([video](https://www.youtube.com/watch?v=OVdPe-FCDwM) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-630fe5cd-6a36-4b29-b5ce-1371c248c87a))
