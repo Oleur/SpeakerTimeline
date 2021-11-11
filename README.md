@@ -2,12 +2,13 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
-- **Digital Android Afterwork** - Android App Bundle: from start to deployment (_coming soon_)
-- **droidcon London 2021** - Exploring Jetpack Compose Canvas (_coming soon_)
-- **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps (_coming soon_)
-- **droidcon Berlin 2021** - Game Development with Unity from an Android Point of View (_coming soon_)
+- **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor (_coming soon_)
+- **Digital Android Afterwork** - Android App Bundle: from start to deployment (video - slides)
+- **droidcon London 2021** - Exploring Jetpack Compose Canvas (video - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-d5900161-9f30-4981-b208-f4321aeb9641))
+- **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps (video - [slides](https://speakerdeck.com/oleur/jetpack-compose-ui-toolkit-for-android-and-desktop-apps))
+- **droidcon Berlin 2021** - Game Development with Unity from an Android Point of View ([video](https://www.droidcon.com/2021/11/10/game-development-with-unity-from-an-android-point-of-view/) - slides)
 - **droidcon Nigeria 2021** - Demystifying Locale on Android (video - slides)
-- **I/O Extended UK & Ireland** - AR/VR on Android in 2021 (video - slides)
+- **I/O Extended UK & Ireland** - AR/VR on Android in 2021 ([video](https://youtu.be/MopzaUUZbjw?t=4668) - [slides](https://speakerdeck.com/oleur/vr-on-android-in-2021))
 - **360|AnDev 2021** - Demystifying Locale on Android (video - [slides](https://speakerdeck.com/oleur/demystifying-locale-on-android-e9c40efc-0d67-4205-a12e-d646b3276082))
 - **Chicago Kotlin User Group** - Building reliable web services with Kotlin Ktor (_coming soon_)
 - **GDG Montréal** - Exploring Jetpack Compose Canvas ([video](https://www.youtube.com/watch?v=OVdPe-FCDwM) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-630fe5cd-6a36-4b29-b5ce-1371c248c87a))
