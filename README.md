@@ -2,7 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2021
-- **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor (_coming soon_)
+- **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor (video - [slides](https://speakerdeck.com/oleur/building-reliable-web-services-with-kotlin-ktor))
 - **Digital Android Afterwork** - Android App Bundle: from start to deployment (video - slides)
 - **droidcon London 2021** - Exploring Jetpack Compose Canvas ([video](https://www.droidcon.com/2021/11/18/exploring-jetpack-compose-canvas/) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-d5900161-9f30-4981-b208-f4321aeb9641))
 - **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps ([video](https://www.youtube.com/watch?v=9wiR7OXg5ig) - [slides](https://speakerdeck.com/oleur/jetpack-compose-ui-toolkit-for-android-and-desktop-apps))
@@ -26,7 +26,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **droidcon Italy** - Game Development with Unity from an Android Point of View (video - [slides](https://speakerdeck.com/oleur/game-development-with-unity-from-an-android-point-of-view-550ac739-1261-4c14-86d3-c5810ecb34ac))
 - **DevFest Egypt** - No Play Services? No Worries! ([slides](https://speakerdeck.com/oleur/no-play-service-no-worries))
 - **DevFest UKI** - Material All the Things! ([video](https://youtu.be/803jB3RLi_s?t=24460) - [slides](https://speakerdeck.com/oleur/material-all-the-things))
-- **DevFest UKI** - Please Draw Me a Sheep... in AR (link)
+- **DevFest UKI** - Please Draw Me a Sheep... in AR (video - slides)
 - **DevFest South Africa** - No Play Services? No Worries! ([video](https://www.youtube.com/watch?v=Y1n5nl15174) - [slides](https://speakerdeck.com/oleur/no-play-services-no-worries))
 - **droidcon EMEA** - Please Draw Me a Sheep... in AR ([video](https://www.droidcon.com/media-detail?video=470526121) - [slides](https://speakerdeck.com/oleur/please-draw-me-a-sheep-dot-dot-dot-in-ar-6a446b2b-44c4-459a-b243-68f9a8ad1725))
 - **Android Makers Paris** - Please Draw Me a Sheep... in AR ([video](https://www.youtube.com/watch?v=f0X_Z8QpEjs) - [slides](https://speakerdeck.com/oleur/please-draw-me-a-sheep-dot-dot-dot-in-ar))
