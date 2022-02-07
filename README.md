@@ -1,8 +1,11 @@
 # Speaker Timeline
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
+## 2022
+- **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (_coming soon_)
+
 ## 2021
-- **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor (video - [slides](https://speakerdeck.com/oleur/building-reliable-web-services-with-kotlin-ktor))
+- **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor ([video](https://www.youtube.com/watch?v=mviCsk2bh6w) - [slides](https://speakerdeck.com/oleur/building-reliable-web-services-with-kotlin-ktor))
 - **Digital Android Afterwork** - Android App Bundle: from start to deployment (video - slides)
 - **droidcon London 2021** - Exploring Jetpack Compose Canvas ([video](https://www.droidcon.com/2021/11/18/exploring-jetpack-compose-canvas/) - [slides](https://speakerdeck.com/oleur/exploring-jetpack-compose-canvas-d5900161-9f30-4981-b208-f4321aeb9641))
 - **DevFest Nantes 2021** - Jetpack Compose: UI toolkit for Android and Desktop apps ([video](https://www.youtube.com/watch?v=9wiR7OXg5ig) - [slides](https://speakerdeck.com/oleur/jetpack-compose-ui-toolkit-for-android-and-desktop-apps))
