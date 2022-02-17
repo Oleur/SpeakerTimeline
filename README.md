@@ -2,6 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2022
+- **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor (_coming soon_)
 - **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (_coming soon_)
 
 ## 2021
