@@ -6,6 +6,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor (_coming soon_)
 - **Android Makers FR 2022** - One does not simply: migrating to Android 12 🤯 (_coming soon_)
 - **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (_coming soon_)
+- **GDG Rennes Android meetup** - Demystifying Locale on Android (_06/04/2022_)
 
 ## 2021
 - **Kotlin Koders 2021** - Building reliable web services with Kotlin Ktor ([video](https://www.youtube.com/watch?v=mviCsk2bh6w) - [slides](https://speakerdeck.com/oleur/building-reliable-web-services-with-kotlin-ktor))
