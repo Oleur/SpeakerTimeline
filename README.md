@@ -4,7 +4,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2022
 - **droidcon San Francisco** - One does not simply: migrating to Android 12 🤯 (_coming soon_)
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor (_19/05/2022_)
-- **Android Makers FR 2022** - One does not simply: migrating to Android 12 🤯 (_25/04/2022_)
+- **Android Makers FR 2022** - Migrer vers Android: plus compliqué que de replier une tente 2s (_25/04/2022_)
 - **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (_21/04/2022_)
 - **GDG Rennes Android meetup** - Demystifying Locale on Android ([video](https://www.youtube.com/watch?v=u_b0DZgjwts) - slides)
 
