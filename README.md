@@ -2,10 +2,10 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2022
-- **droidcon San Francisco** - One does not simply: migrating to Android 12 🤯 (_coming soon_)
+- **droidcon San Francisco 2022** - One does not simply: migrating to Android 12 🤯 (_03/06/2022_)
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor (_19/05/2022_)
-- **Android Makers FR 2022** - Migrer vers Android: plus compliqué que de replier une tente 2s (_25/04/2022_)
-- **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (_21/04/2022_)
+- **Android Makers FR 2022** - Migrer vers Android: plus compliqué que de replier une tente 2s (video - [slides](https://speakerdeck.com/oleur/migrer-vers-android-12-plus-complique-que-de-replier-une-tente-2s))
+- **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop (video - slides)
 - **GDG Rennes Android meetup** - Demystifying Locale on Android ([video](https://www.youtube.com/watch?v=u_b0DZgjwts) - slides)
 
 ## 2021
