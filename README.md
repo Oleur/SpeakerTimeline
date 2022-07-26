@@ -2,6 +2,8 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2022
+- **Developers Conference 2022 Mauritius** - Jetpack Compose: UI toolkit for Android and Desktop apps (_coming soon_)
+- **Developers Conference 2022 Mauritius** - Building reliable web services with Kotlin Ktor (_coming soon_)
 - **droidcon New-York 2022** - Android App Bundle: from start to deployment (_02/09/2022_)
 - **droidcon San Francisco 2022** - One does not simply: migrating to Android 12 🤯 ([video](https://www.droidcon.com/2022/06/28/one-does-not-simply-migrating-to-android-12/) - [slides](https://speakerdeck.com/oleur/one-does-not-simply-migrating-to-android-12))
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor ([video](https://www.youtube.com/watch?v=eAOvqAAxRIQ) - [slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
