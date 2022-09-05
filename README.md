@@ -5,7 +5,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **Developers Conference 2022 Mauritius** - Jetpack Compose: UI toolkit for Android and Desktop apps (_coming soon_)
 - **Developers Conference 2022 Mauritius** - Building reliable web services with Kotlin Ktor (_coming soon_)
 - **droidcon Egypt 2022** - 10 years of Android Development: The Retrospective (_coming soon_)
-- **droidcon New-York 2022** - Android App Bundle: from start to deployment (_01/09/2022_)
+- **droidcon New-York 2022** - Android App Bundle: from start to deployment (video - [slides](https://speakerdeck.com/oleur/android-app-bundle-from-start-to-deployment-b8515c56-5123-4f86-bdc8-b0ff9df44951))
 - **droidcon San Francisco 2022** - One does not simply: migrating to Android 12 🤯 ([video](https://www.droidcon.com/2022/06/28/one-does-not-simply-migrating-to-android-12/) - [slides](https://speakerdeck.com/oleur/one-does-not-simply-migrating-to-android-12))
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor ([video](https://www.youtube.com/watch?v=eAOvqAAxRIQ) - [slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
 - **Android Makers FR 2022** - Migrer vers Android 12: plus compliqué que de replier une tente 2s ([video](https://www.youtube.com/watch?v=GtpI3EiRkyY) - [slides](https://speakerdeck.com/oleur/migrer-vers-android-12-plus-complique-que-de-replier-une-tente-2s))
