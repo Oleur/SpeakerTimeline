@@ -6,16 +6,16 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2022
 - **apidays Paris 2022** - Building strongly typed APIs with Kotlin Ktor (_15/12/2022_)
-- **Paris Android User Group** - 10+ ans de développement Android: La Rétrospective (_08/12/2022_)
+- **Paris Android User Group** - 10+ ans de développement Android: La Rétrospective ([video](https://www.youtube.com/watch?v=RfXcD87Fpaw) - slides)
 - **Developers Conference 2022 Mauritius** - Jetpack Compose: UI toolkit for Android and Desktop apps (slides)
 - **Developers Conference 2022 Mauritius** - Building reliable web services with Kotlin Ktor ([slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
-- **droidcon Egypt 2022** - 10 years of Android Development: The Retrospective (video - slides)
+- **droidcon Egypt 2022** - 10 years of Android Development: The Retrospective (video - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective))
 - **droidcon Italy 2022** - 10 years of Android Development: The Retrospective (video - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective))
 - **droidcon New-York 2022** - Android App Bundle: from start to deployment (video - [slides](https://speakerdeck.com/oleur/android-app-bundle-from-start-to-deployment-b8515c56-5123-4f86-bdc8-b0ff9df44951))
 - **droidcon San Francisco 2022** - One does not simply: migrating to Android 12 🤯 ([video](https://www.droidcon.com/2022/06/28/one-does-not-simply-migrating-to-android-12/) - [slides](https://speakerdeck.com/oleur/one-does-not-simply-migrating-to-android-12))
 - **Kotlin Dev Day Amsterdam** - Building strongly typed web services with Kotlin Ktor ([video](https://www.youtube.com/watch?v=eAOvqAAxRIQ) - [slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
 - **Android Makers FR 2022** - Migrer vers Android 12: plus compliqué que de replier une tente 2s ([video](https://www.youtube.com/watch?v=GtpI3EiRkyY) - [slides](https://speakerdeck.com/oleur/migrer-vers-android-12-plus-complique-que-de-replier-une-tente-2s))
-- **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop ([video](https://www.youtube.com/watch?v=kCo_ug3Bkxw) - slides)
+- **Devoxx France 2022** - Jetpack Compose: UI toolkit pour Android et Desktop ([video](https://www.youtube.com/watch?v=kCo_ug3Bkxw) - [slides](https://speakerdeck.com/oleur/jetpack-compose-ui-toolkit-for-android-and-desktop-apps))
 - **GDG Rennes Android meetup** - Demystifying Locale on Android ([video](https://www.youtube.com/watch?v=u_b0DZgjwts) - slides)
 
 ## 2021
