@@ -5,7 +5,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (_coming soon_)
 
 ## 2022
-- **apidays Paris 2022** - Building strongly typed APIs with Kotlin Ktor (_15/12/2022_)
+- **apidays Paris 2022** - Building strongly typed APIs with Kotlin Ktor (video - slides)
 - **Paris Android User Group** - 10+ ans de développement Android: La Rétrospective ([video](https://www.youtube.com/watch?v=RfXcD87Fpaw) - slides)
 - **Developers Conference 2022 Mauritius** - Jetpack Compose: UI toolkit for Android and Desktop apps (slides)
 - **Developers Conference 2022 Mauritius** - Building reliable web services with Kotlin Ktor ([slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
