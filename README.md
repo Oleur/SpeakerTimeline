@@ -2,6 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2023
+- **plDroid 2023** - Bring machine learning to Android with ML Kit (_coming soon_)
 - **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (_coming soon_)
 
 ## 2022
