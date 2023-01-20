@@ -3,7 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2023
 - **plDroid 2023** - Bring machine learning to Android with ML Kit (_coming soon_)
-- **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (_coming soon_)
+- **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (video - slides)
 
 ## 2022
 - **apidays Paris 2022** - Building strongly typed APIs with Kotlin Ktor (video - [slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
