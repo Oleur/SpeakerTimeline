@@ -4,7 +4,9 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2023
 - **plDroid 2023** - Bring machine learning to Android with ML Kit (_30/05/2023_)
 - **Android Makers x droicon 2023** - 10 years of Android Development: The Retrospective (video - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
+- **Android Makers x droicon 2023** - App Clinic (video)
 - 🛑 **CANCELLED** ~~**DevFest Pisa 2023** - Bring machine learning to Android with ML Kit (_01/04/2023_)~~
+- **French Android User Group** App-Clinic #3 (video)
 - **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (video - slides)
 
 ## 2022
