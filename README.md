@@ -2,7 +2,9 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2023
-- **plDroid 2023** - Bring machine learning to Android with ML Kit (_30/05/2023_)
+- **droidcon Berlin 2023** - Our ongoing journey from REST to GraphQL on Android (_06/07/2023_)
+- **BreizhCamp 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (_29/06/2023_)
+- **plDroid 2023** - Bring machine learning to Android with ML Kit (video - slides)
 - **Android Makers x droicon 2023** - 10 years of Android Development: The Retrospective (video - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **Android Makers x droicon 2023** - App Clinic (video)
 - 🛑 **CANCELLED** ~~**DevFest Pisa 2023** - Bring machine learning to Android with ML Kit (_01/04/2023_)~~
