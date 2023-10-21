@@ -3,11 +3,12 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2023
 - **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android (_06/12/2023_)
+- **DevFest Stockholm 2023** - Bring machine learning to Android with ML Kit (_02/12/2023_)
 - **droidcon London 2023** - Our ongoing journey from REST to GraphQL on Android (_27/10/2023_)
-- **droidcon Italy 2023** - Bring machine learning to Android with ML Kit (_12/10/2023_)
-- **DevFest Perros-Guirec 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (_06/10/2023_)
+- **droidcon Italy 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- **DevFest Perros-Guirec 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **droidcon Lisbon 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **DroidKaigi 2023** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-f5a941c1-6cea-4547-b9b6-633c4d0f0c9a))
+- **DroidKaigi 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.youtube.com/watch?v=5rG1NF40PhE) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-f5a941c1-6cea-4547-b9b6-633c4d0f0c9a))
 - **droidcon Berlin 2023** - 10 years of Android Development: The Retrospective ([video](https://www.droidcon.com/2023/07/31/10-years-of-android-development-the-retrospective-2/) - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **droidcon Berlin 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/07/31/our-ongoing-journey-from-rest-to-graphql-on-android/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **BreizhCamp 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
