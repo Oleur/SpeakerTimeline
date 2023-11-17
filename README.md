@@ -2,22 +2,23 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2023
+- **DevFest Miami 2023** - Bring machine learning to Android with ML Kit (_09/12/2023_)
 - **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android (_06/12/2023_)
 - **DevFest Stockholm 2023** - Bring machine learning to Android with ML Kit (_02/12/2023_)
-- **droidcon London 2023** - Our ongoing journey from REST to GraphQL on Android (_27/10/2023_)
+- **droidcon London 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/11/15/our-ongoing-journey-from-rest-to-graphql-on-android-2/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **droidcon Italy 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **DevFest Perros-Guirec 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **droidcon Lisbon 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **DroidKaigi 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.youtube.com/watch?v=5rG1NF40PhE) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-f5a941c1-6cea-4547-b9b6-633c4d0f0c9a))
 - **droidcon Berlin 2023** - 10 years of Android Development: The Retrospective ([video](https://www.droidcon.com/2023/07/31/10-years-of-android-development-the-retrospective-2/) - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **droidcon Berlin 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/07/31/our-ongoing-journey-from-rest-to-graphql-on-android/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
-- **BreizhCamp 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- **BreizhCamp 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA ([video](https://www.youtube.com/watch?v=e9muzM6HWB0&list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j&index=41) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **plDroid 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **Android Makers x droicon 2023** - 10 years of Android Development: The Retrospective ([video](https://www.youtube.com/watch?v=knLwKJKapMU) - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **Android Makers x droicon 2023** - App Clinic ([video](https://www.youtube.com/watch?v=DTR8M46tD5Y))
 - 🛑 **CANCELLED** ~~**DevFest Pisa 2023** - Bring machine learning to Android with ML Kit (_01/04/2023_)~~
 - **French Android User Group** - App-Clinic #3 ([video](https://www.youtube.com/watch?v=JZuCl0WgqI0))
-- **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (video - slides)
+- **Touraine Tech 2023** - 10+ ans de développement Android: La Rétrospective (video - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 
 ## 2022
 - **apidays Paris 2022** - Building strongly typed APIs with Kotlin Ktor (video - [slides](https://speakerdeck.com/oleur/building-strongly-typed-web-services-with-kotlin-ktor))
