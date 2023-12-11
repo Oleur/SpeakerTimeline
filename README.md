@@ -2,9 +2,9 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2023
-- **DevFest Miami 2023** - Bring machine learning to Android with ML Kit (_09/12/2023_)
-- **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android (_06/12/2023_)
-- **DevFest Stockholm 2023** - Bring machine learning to Android with ML Kit (_02/12/2023_)
+- **DevFest Miami 2023** - Bring machine learning to Android with ML Kit ([slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
+- **DevFest Stockholm 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **droidcon London 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/11/15/our-ongoing-journey-from-rest-to-graphql-on-android-2/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **droidcon Italy 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **DevFest Perros-Guirec 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
