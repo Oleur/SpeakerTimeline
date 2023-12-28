@@ -3,7 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2023
 - **DevFest Miami 2023** - Bring machine learning to Android with ML Kit ([slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
+- **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android ([slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **DevFest Stockholm 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **droidcon London 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/11/15/our-ongoing-journey-from-rest-to-graphql-on-android-2/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **droidcon Italy 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
@@ -13,7 +13,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 - **droidcon Berlin 2023** - 10 years of Android Development: The Retrospective ([video](https://www.droidcon.com/2023/07/31/10-years-of-android-development-the-retrospective-2/) - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **droidcon Berlin 2023** - Our ongoing journey from REST to GraphQL on Android ([video](https://www.droidcon.com/2023/07/31/our-ongoing-journey-from-rest-to-graphql-on-android/) - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
 - **BreizhCamp 2023** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA ([video](https://www.youtube.com/watch?v=e9muzM6HWB0&list=PLv7xGPH0RMUQC6eKGeEXO4PzvKdsU7z2j&index=41) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **plDroid 2023** - Bring machine learning to Android with ML Kit (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- **plDroid 2023** - Bring machine learning to Android with ML Kit ([video](https://www.youtube.com/watch?v=-wlsTsXd75I) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **Android Makers x droicon 2023** - 10 years of Android Development: The Retrospective ([video](https://www.youtube.com/watch?v=knLwKJKapMU) - [slides](https://speakerdeck.com/oleur/10-years-of-android-development-the-retrospective-1b181a87-9a99-4a82-bd83-b2e4a01fe1b9))
 - **Android Makers x droicon 2023** - App Clinic ([video](https://www.youtube.com/watch?v=DTR8M46tD5Y))
 - 🛑 **CANCELLED** ~~**DevFest Pisa 2023** - Bring machine learning to Android with ML Kit (_01/04/2023_)~~
