@@ -1,6 +1,10 @@
 # Speaker Timeline
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
+## 2024
+- **plDroid 2024** - Our ongoing journey from REST to GraphQL on Android (_29/05/2024_)
+- **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (_31/01/2024_)
+
 ## 2023
 - **DevFest Miami 2023** - Bring machine learning to Android with ML Kit ([slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **apidays Paris 2023** - Our ongoing journey from REST to GraphQL on Android ([slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android))
