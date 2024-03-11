@@ -2,6 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2024
+- **apidays Paris 2024** - _TBD_ (_03/12/2024_)
 - **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (_18/09/2024_)
 - **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 
