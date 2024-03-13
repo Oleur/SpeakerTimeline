@@ -4,6 +4,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2024
 - **apidays Paris 2024** - _TBD_ (_03/12/2024_)
 - **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (_18/09/2024_)
+- **Android Makers x droidcon 2024** - How to Lead? Testimonial of a Lead Android Engineer (_25/04/2024_)
 - **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 
 ## 2023
