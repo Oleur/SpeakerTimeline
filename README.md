@@ -4,6 +4,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2024
 - **apidays Paris 2024** - _TBD_ (_03/12/2024_)
 - **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (_18/09/2024_)
+- **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (_05/09/2024_)
 - **Voxxed Days Luxembourg** - Our ongoing journey from REST to GraphQL on Android vol. 2 (_20/06/2024_)
 - **Mobilis in Mobile 2024** - API design avec Jetpack Compopse (_18/06/2024_)
 - **Build with AI - GDG Leuven** - ML Kit in short! (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
