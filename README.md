@@ -4,12 +4,13 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 ## 2024
 - **apidays Paris 2024** - _TBD_ (_03/12/2024_)
 - **droidcon Italy 2024** - Efficient Android app monitoring (_29/11/2024_)
+- **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (_26/10/2024_)
 - **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (_18/09/2024_)
 - **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (_05/09/2024_)
 - **Voxxed Days Luxembourg** - Our ongoing journey from REST to GraphQL on Android vol. 2 (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
-- **Mobilis in Mobile 2024** - API design avec Jetpack Compopse (video - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
+- **Mobilis in Mobile 2024** - API design avec Jetpack Compopse ([video](https://www.youtube.com/watch?v=RYc0g8kjNrM&list=PLxisTSMitjRdU_2XX0rEHXbXO0dQsQF88&index=17) - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
 - **Build with AI - GDG Leuven** - ML Kit in short! (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **Android Makers x droidcon 2024** - How to Lead? Testimonial of a Lead Android Engineer (_25/04/2024_)
+- **Android Makers x droidcon 2024** - How to Lead? Testimonial of a Lead Android Engineer ([video](https://www.youtube.com/watch?v=xGWwIE3p9PA) - [slides](https://speakerdeck.com/oleur/how-to-lead-testimonial-of-a-lead-android-engineer))
 - **PAUG Meetup March 2024** - ML Kit en bref ! ([video](https://www.youtube.com/watch?v=cUq_oV11rMc) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 - **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 
