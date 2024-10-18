@@ -2,9 +2,8 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2024
-- **apidays Paris 2024** - _TBD_ (_03/12/2024_)
+- **DevFest Astana 2024** - The state of AI/ML on Android (_05/12/2024_)
 - **droidcon Italy 2024** - Efficient Android app monitoring (_29/11/2024_)
-- **DevFest Astana 2024** - The state of AI/ML on Android (_31/10/2024_)
 - **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (_26/10/2024_)
 - **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
 - **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
