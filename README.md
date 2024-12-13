@@ -1,18 +1,22 @@
 # Speaker Timeline
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
+## 2025
+- 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (_28/02/2025_)
+
 ## 2024
-- **DevFest Astana 2024** - The state of AI/ML on Android (_05/12/2024_)
-- **droidcon Italy 2024** - Efficient Android app monitoring (_29/11/2024_)
-- **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (_26/10/2024_)
-- **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
-- **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
-- **Voxxed Days Luxembourg** - Our ongoing journey from REST to GraphQL on Android vol. 2 (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
-- **Mobilis in Mobile 2024** - API design avec Jetpack Compopse ([video](https://www.youtube.com/watch?v=RYc0g8kjNrM&list=PLxisTSMitjRdU_2XX0rEHXbXO0dQsQF88&index=17) - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
-- **Build with AI - GDG Leuven** - ML Kit in short! (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **Android Makers x droidcon 2024** - How to Lead? Testimonial of a Lead Android Engineer ([video](https://www.youtube.com/watch?v=xGWwIE3p9PA) - [slides](https://speakerdeck.com/oleur/how-to-lead-testimonial-of-a-lead-android-engineer))
-- **PAUG Meetup March 2024** - ML Kit en bref ! ([video](https://www.youtube.com/watch?v=cUq_oV11rMc) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
-- **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- 🇫🇷 **PAUG Meetup December 2024** - API Design avec Compose (video - slides)
+- 🇰🇿 **DevFest Astana 2024** - The state of AI/ML on Android (_05/12/2024_)
+- 🇮🇹 **droidcon Italy 2024** - Efficient Android app monitoring (_29/11/2024_)
+- 🇮🇹 **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (_26/10/2024_)
+- 🇬🇧 **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
+- 🇵🇹 **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
+- 🇱🇺 **Voxxed Days Luxembourg** - Our ongoing journey from REST to GraphQL on Android vol. 2 (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
+- 🇫🇷 **Mobilis in Mobile 2024** - API design avec Jetpack Compopse ([video](https://www.youtube.com/watch?v=RYc0g8kjNrM&list=PLxisTSMitjRdU_2XX0rEHXbXO0dQsQF88&index=17) - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
+- 🇧🇪 **Build with AI - GDG Leuven** - ML Kit in short! (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- 🇫🇷 **Android Makers x droidcon 2024** - How to Lead? Testimonial of a Lead Android Engineer ([video](https://www.youtube.com/watch?v=xGWwIE3p9PA) - [slides](https://speakerdeck.com/oleur/how-to-lead-testimonial-of-a-lead-android-engineer))
+- 🇫🇷 **PAUG Meetup March 2024** - ML Kit en bref ! ([video](https://www.youtube.com/watch?v=cUq_oV11rMc) - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
+- 🇫🇷 **Innovation Week Montpellier** - Machine Learning sur Android avec ML Kit - sans être expert.e en IA (video - [slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
 
 ## 2023
 - **DevFest Miami 2023** - Bring machine learning to Android with ML Kit ([slides](https://speakerdeck.com/oleur/bring-machine-learning-to-android-with-ml-kit))
