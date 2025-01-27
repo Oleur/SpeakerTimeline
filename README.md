@@ -3,6 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2025
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (_28/02/2025_)
+- 🇧🇪 **FOSDEM 2025** - Kotlin Community Stand organizer (_01/02/2025_)
 
 ## 2024
 - 🇫🇷 **PAUG Meetup December 2024** - API Design avec Compose (video - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
