@@ -2,13 +2,14 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2025
+- 🇷🇴 **DevTalks Romania** - Kotlin idioms to best serve your API Design with Compose (_04/06/2025_)
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (_28/02/2025_)
 - 🇧🇪 **FOSDEM 2025** - Kotlin Community Stand organizer (_01/02/2025_)
 
 ## 2024
-- 🇫🇷 **PAUG Meetup December 2024** - API Design avec Compose (video - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
-- 🇰🇿 **DevFest Astana 2024** - The state of AI/ML on Android (video - slides)
-- 🇮🇹 **droidcon Italy 2024** - Efficient Android app monitoring (video - slides)
+- 🇫🇷 **PAUG Meetup December 2024** - API Design avec Compose ([video](https://www.youtube.com/watch?v=Y-UFPa8SH_4) - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
+- 🇰🇿 **DevFest Astana 2024** - The state of AI/ML on Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
+- 🇮🇹 **droidcon Italy 2024** - Efficient Android app monitoring (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇮🇹 **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (video - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
 - 🇬🇧 **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
 - 🇵🇹 **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
