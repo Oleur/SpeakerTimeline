@@ -3,6 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Exo
 
 ## 2025
 - 🇷🇴 **DevTalks Romania** - Kotlin idioms to best serve your API Design with Compose (_04/06/2025_)
+- 🇲🇺🛜 **Mobile Horizon 2025** - Android 101: How to Get Started in 2025 (_07/03/2025_)
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (_28/02/2025_)
 - 🇧🇪 **FOSDEM 2025** - Kotlin Community Stand organizer (_01/02/2025_)
 
