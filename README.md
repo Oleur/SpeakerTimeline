@@ -2,8 +2,9 @@
 This page gathers all the talks I gave since 2015 on various Android topics (ExoPlayer, AR/VR, Gaming, No Play Services, Material Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2025
+- 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (_17/06/2025_)
 - 🇷🇴 **DevTalks Romania** - Kotlin idioms to best serve your API Design with Compose (_04/06/2025_)
-- 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring (_11/04/2025_)
+- 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring (video - slides)
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (video - [slides](https://speakerdeck.com/oleur/compose-interoperability-challenges-and-how-to-face-them))
 - 🇧🇪 **FOSDEM 2025** - Kotlin Community Stand organizer (_01/02/2025_)
 
