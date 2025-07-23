@@ -2,6 +2,8 @@
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2025
+- 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (_27/11/2025_)
+- 🇮🇹 **DevFest Lecce 2025** - You, me and Firebase Studio 🔥 (_13/09/2025_)
 - 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (_17/06/2025_)
 - 🇷🇴 **DevTalks Romania 2025** - Kotlin idioms to best serve your API Design with Compose (video - [slides](https://speakerdeck.com/oleur/kotlin-idioms-to-best-serve-your-design-system-with-compose))
 - 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
