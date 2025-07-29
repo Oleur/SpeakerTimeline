@@ -3,10 +3,10 @@ This page gathers all the talks I gave since 2015 on various Android topics (Com
 
 ## 2025
 - 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (_27/11/2025_)
-- 🇮🇹 **DevFest Lecce 2025** - You, me and Firebase Studio 🔥 (_13/09/2025_)
-- 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (_17/06/2025_)
+- 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (_11/10/2025_)
+- 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇷🇴 **DevTalks Romania 2025** - Kotlin idioms to best serve your API Design with Compose (video - [slides](https://speakerdeck.com/oleur/kotlin-idioms-to-best-serve-your-design-system-with-compose))
-- 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
+- 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring ([video](https://www.youtube.com/watch?v=PROVMbpm4zo&list=PLn7H9CUCuXAuEvoiAbUMD-Z2dw51BTrMT) - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (video - [slides](https://speakerdeck.com/oleur/compose-interoperability-challenges-and-how-to-face-them))
 - 🇧🇪 **FOSDEM 2025** - Kotlin Community Stand organizer (_01/02/2025_)
 
