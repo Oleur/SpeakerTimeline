@@ -3,6 +3,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Com
 
 ## 2025
 - 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (_27/11/2025_)
+- 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ (_30/10/2025_)
 - 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (_11/10/2025_)
 - 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇷🇴 **DevTalks Romania 2025** - Kotlin idioms to best serve your API Design with Compose (video - [slides](https://speakerdeck.com/oleur/kotlin-idioms-to-best-serve-your-design-system-with-compose))
