@@ -2,7 +2,10 @@
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2025
+- 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - You, me and Firebase Studio 🔥 (_15/12/2025_)
+- 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - The state of AI/ML on Android (_15/12/2025_)
 - 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (_27/11/2025_)
+- 🇮🇹 **DevFest Alps 2025** - You, me and Firebase Studio 🔥 (_21/11/2025_)
 - 🇮🇹 **droidcon Italy 2025** - You, me and Firebase Studio 🔥 (_20/11/2025_)
 - 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ (_30/10/2025_)
 - 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (_11/10/2025_)
