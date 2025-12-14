@@ -10,7 +10,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Com
 - 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
 - 🇮🇹 **DevFest Alps 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
 - 🇮🇹 **droidcon Italy 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
-- 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ ([video](https://www.youtube.com/watch?v=zHzs-QXrsco) - slides)
+- 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ ([video](https://www.youtube.com/watch?v=zHzs-QXrsco) - [slides](https://speakerdeck.com/oleur/so-i-tried-to-port-my-app-to-android-xr))
 - 🇬🇧 **droidcon London 2025** - Roundtable - Let's talk Android XR 🕶️
 - 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
 - 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android ([video](https://www.youtube.com/watch?v=nYAhrarMtvA) - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
