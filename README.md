@@ -1,16 +1,19 @@
 # Speaker Timeline
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
+## 2026
+- 🇷🇴 **DevFest Bucharest 2026** - DevFest Bucharest 2026 (_05/03/2026_)
+
 ## 2025
-- 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - You, me and Firebase Studio 🔥 (_15/12/2025_)
+- 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - You, me and Firebase Studio 🔥 ([slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
 - 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - The state of AI/ML on Android (_15/12/2025_)
-- 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (_27/11/2025_)
-- 🇮🇹 **DevFest Alps 2025** - You, me and Firebase Studio 🔥 (_21/11/2025_)
-- 🇮🇹 **droidcon Italy 2025** - You, me and Firebase Studio 🔥 (_20/11/2025_)
-- 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ (_31/10/2025_)
-- 🇬🇧 **droidcon London 2025** - Roundtable - Let's talk Android XR 🕶️ (_30/10/2025_)
-- 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (_11/10/2025_)
-- 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
+- 🇫🇷 **DevFest Strasbourg 2025** - Vous, moi et Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
+- 🇮🇹 **DevFest Alps 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
+- 🇮🇹 **droidcon Italy 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
+- 🇬🇧 **droidcon London 2025** - So I tried to port my app to Android XR 🕶️ ([video](https://www.youtube.com/watch?v=zHzs-QXrsco) - slides)
+- 🇬🇧 **droidcon London 2025** - Roundtable - Let's talk Android XR 🕶️
+- 🇮🇹 **DevFest Venezia 2025** - You, me and Firebase Studio 🔥 (video - [slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
+- 🇫🇷 **Mobilis In Mobile 2025** - Monitorer efficacement ses applications Android ([video](https://www.youtube.com/watch?v=nYAhrarMtvA) - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇷🇴 **DevTalks Romania 2025** - Kotlin idioms to best serve your API Design with Compose (video - [slides](https://speakerdeck.com/oleur/kotlin-idioms-to-best-serve-your-design-system-with-compose))
 - 🇫🇷 **Android Makers x droidcon 2025** - Efficient Android app monitoring ([video](https://www.youtube.com/watch?v=PROVMbpm4zo&list=PLn7H9CUCuXAuEvoiAbUMD-Z2dw51BTrMT) - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇸🇪 **DevFest Stockholm 2025** - Compose interoperability challenges and how to face them! (video - [slides](https://speakerdeck.com/oleur/compose-interoperability-challenges-and-how-to-face-them))
@@ -19,7 +22,7 @@ This page gathers all the talks I gave since 2015 on various Android topics (Com
 ## 2024
 - 🇫🇷 **PAUG Meetup December 2024** - API Design avec Compose ([video](https://www.youtube.com/watch?v=Y-UFPa8SH_4) - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
 - 🇰🇿 **DevFest Astana 2024** - The state of AI/ML on Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
-- 🇮🇹 **droidcon Italy 2024** - Efficient Android app monitoring (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
+- 🇮🇹 **droidcon Italy 2024** - Efficient Android app monitoring ([video](https://www.youtube.com/watch?v=li3Sism-Hiw&list=PL4ebO4PmeAi6BLj9Diyd3DNfN0al9hhAr&index=30) - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
 - 🇮🇹 **DevFest Bari 2024** - A slowly cooked Design System with Compose UI (video - [slides](https://speakerdeck.com/oleur/api-design-with-compose))
 - 🇬🇧 **apidays London 2024** - Our ongoing journey from REST to GraphQL on Android (video - [slides](https://speakerdeck.com/oleur/our-ongoing-journey-from-rest-to-graphql-on-android-vol-2))
 - 🇵🇹 **droidcon Lisbon 2024** - Leverage our skills and apps with new AI/ML tools for Android (video - [slides](https://speakerdeck.com/oleur/ml-tools-for-android))
