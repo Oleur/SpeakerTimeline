@@ -2,7 +2,9 @@
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2026
-- 🇷🇴 **DevFest Bucharest 2026** - DevFest Bucharest 2026 (_05/03/2026_)
+- 🇨🇿 **mDevCamp 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_04/06/2026_)
+- 🇳🇱 **AppDevCon 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_13/03/2026_)
+- 🇷🇴 **DevFest Bucharest 2026** - Hidden Gems of Firebase for Android Devs (_05/03/2026_)
 
 ## 2025
 - 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - You, me and Firebase Studio 🔥 ([slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
