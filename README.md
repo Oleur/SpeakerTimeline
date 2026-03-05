@@ -3,8 +3,9 @@ This page gathers all the talks I gave since 2015 on various Android topics (Com
 
 ## 2026
 - 🇨🇿 **mDevCamp 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_04/06/2026_)
+- 🇫🇷 **Android Makers x droidcon 2025** - So I tried to port my app to Android XR 🕶️ (_10/04/2026_)
 - 🇳🇱 **AppDevCon 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_13/03/2026_)
-- 🇷🇴 **DevFest Bucharest 2026** - Hidden Gems of Firebase for Android Devs (_05/03/2026_)
+- 🇷🇴 **DevFest Bucharest 2026** - Hidden Gems of Firebase for Android Devs ([slides](https://speakerdeck.com/oleur/hidden-gems-of-firebase-for-android-devs))
 
 ## 2025
 - 🇦🇪 **Mobile Developers Week Abu Dhabi 2025** - You, me and Firebase Studio 🔥 ([slides](https://speakerdeck.com/oleur/you-me-and-firebase-studio))
