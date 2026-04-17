@@ -2,7 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2026
-- 🇨🇿 **BreizhCamp 2026** - Kotlin, Compose & XR: let's enter the matrix 🕶️ (_26/06/2026_)
+- 🇫🇷 **BreizhCamp 2026** - Kotlin, Compose & XR: let's enter the matrix 🕶️ (_26/06/2026_)
 - 🇨🇿 **mDevCamp 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_04/06/2026_)
 - 🇫🇷 **Android Makers x droidcon 2025** - So I tried to port my app to Android XR 🕶️ (video - [slides](https://speakerdeck.com/oleur/so-i-tried-to-port-my-app-to-android-xr))
 - 🇳🇱 **AppDevCon 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (video - [slides](https://speakerdeck.com/oleur/efficient-android-app-monitoring))
