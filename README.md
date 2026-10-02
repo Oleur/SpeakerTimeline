@@ -2,6 +2,7 @@
 This page gathers all the talks I gave since 2015 on various Android topics (Compose, Monitoring, ExoPlayer, AR/VR/XR, Gaming, Design...). You can find the video and the slides from the talk if they are available. If you are interested in learning more about those topics do not hesitate to ping me 🙂
 
 ## 2026
+- 🇬🇧 **droidcon London 2026** - Yet Another Performance Talk: Where AI Can Help (_10/12/2026_)
 - 🇫🇷 **DevFest Paris 2026** - ML Kit reloaded: hands-on with on-device GenAI APIs (_27/11/2026_)
 - 🇲🇦 **Devoxx Morocco 2026** - Let the Agent Drive: QA on Android with Trailblaze and the Android CLI (_04/11/2026_)
 - 🇬🇧 **KotlinLeeds 2026** - Beyond Crashes: Mastering Monitoring & Observability for Android Apps 🚀 (_15/10/2026_)
